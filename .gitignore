@@ -1,0 +1,14 @@
+target/
+allure-results/
+logs/
+.allure/
+
+.idea/
+.classpath
+.project
+.settings/
+
+.vscode/
+*.log
+*.tmp
+*.swp
